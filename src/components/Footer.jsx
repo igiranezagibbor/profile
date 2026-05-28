@@ -8,9 +8,9 @@ const Footer = () => {
           <div className="text-gray-500 text-sm">
           © {new Date().getFullYear()} Gibbor Tech – Full‑Stack & Database Engineer          </div>
           <div className="flex space-x-6">
-            <a href="https://github.com/igiranezagibbor" className="text-gray-400 hover:text-blue-400 text-xl"><FaGithub /></a>
-            <a href="#" className="text-gray-400 hover:text-blue-400 text-xl"><FaLinkedin /></a>
-            <a href="#" className="text-gray-400 hover:text-blue-400 text-xl"><FaTwitter /></a>
+            <a href="https://github.com/igiranezagibbor" target="_blank" className="text-gray-400 hover:text-blue-400 text-xl"><FaGithub /></a>
+            <a href="https://www.linkedin.com/in/igiraneza-el-gibbor-a8aba63b1" target="_blank" className="text-gray-400 hover:text-blue-400 text-xl"><FaLinkedin /></a>
+            <a href="#" target="_blank" className="text-gray-400 hover:text-blue-400 text-xl"><FaTwitter /></a>
           </div>
         </div>
       </div>

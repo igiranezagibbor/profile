@@ -42,8 +42,8 @@ const Hero = () => {
               </a>
             </div>
             <div className="mt-8 flex gap-5 justify-center lg:justify-start text-gray-400">
-              <a href="https://github.com/igiranezagibbor" className="hover:text-blue-400 text-2xl transition"><FaGithub /></a>
-              <a href="#" className="hover:text-blue-400 text-2xl transition"><FaLinkedin /></a>
+              <a href="https://github.com/igiranezagibbor" target="_blank" className="hover:text-blue-400 text-2xl transition"><FaGithub /></a>
+              <a href="https://www.linkedin.com/in/igiraneza-el-gibbor-a8aba63b1" target="_blank"  className="hover:text-blue-400  text-2xl transition"><FaLinkedin /></a>
             </div>
           </div>
 

@@ -9,7 +9,7 @@ const Contact = () => {
   const [feedback, setFeedback] = useState({ type: '', message: '' })
 
   // Your EmailJS credentials
-  const EMAILJS_SERVICE_ID = 'service_awedp4y'
+  const EMAILJS_SERVICE_ID = 'service_oprqlgi'
   const EMAILJS_TEMPLATE_ID = 'template_irk9vqq'
   const EMAILJS_PUBLIC_KEY = 'vWQjrkJhH2e5Py0w4'
 
