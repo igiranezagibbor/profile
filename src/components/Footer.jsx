@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="flex space-x-6">
             <a href="https://github.com/igiranezagibbor" target="_blank" className="text-gray-400 hover:text-blue-400 text-xl"><FaGithub /></a>
             <a href="https://www.linkedin.com/in/igiraneza-el-gibbor-a8aba63b1" target="_blank" className="text-gray-400 hover:text-blue-400 text-xl"><FaLinkedin /></a>
-            <a href="#" target="_blank" className="text-gray-400 hover:text-blue-400 text-xl"><FaTwitter /></a>
+            <a href="https://x.com/gibbortech" target="_blank" className="text-gray-400 hover:text-blue-400 text-xl"><FaTwitter /></a>
           </div>
         </div>
       </div>
