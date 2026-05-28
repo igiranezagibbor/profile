@@ -42,7 +42,7 @@ const Hero = () => {
               </a>
             </div>
             <div className="mt-8 flex gap-5 justify-center lg:justify-start text-gray-400">
-              <a href="#" className="hover:text-blue-400 text-2xl transition"><FaGithub /></a>
+              <a href="https://github.com/igiranezagibbor" className="hover:text-blue-400 text-2xl transition"><FaGithub /></a>
               <a href="#" className="hover:text-blue-400 text-2xl transition"><FaLinkedin /></a>
             </div>
           </div>
